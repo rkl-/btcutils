@@ -1,4 +1,4 @@
 btcutils
 ========
 
-Various tools for Bitcoin
+Various tools for Bitcoin.
